@@ -1,1 +1,1 @@
-# ecommerce shoping cart
+# ecommerce shoping cart with django
